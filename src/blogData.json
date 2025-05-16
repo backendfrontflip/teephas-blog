@@ -1,0 +1,367 @@
+[
+  {
+    "id": 1,
+    "slug": "World Trade",
+    "title": "United States And China came to a settlement on their tariff war",
+    "excerpt": "World Economy",
+    "coverImage": "/us-china-tariff.jpg",
+    "content": "<p>The United States and China have agreed to temporarily de-escalate their ongoingtrade dispute by suspending a large portion of the retaliatory tariffs imposed over the past month. US and China will reduce their tariffs to 10% for 90 days, with the agreement set to take effect on May 14, 2025. <br> The deal was formalised in a joint statement following high-level economic talks held in Geneva on Monday, May 12, 2025. According to the joint statement issued by the White House, the deal stems from a “mutual recognition of the importance of a sustainable, long-term, and mutually beneficial economic and trade relationship.”</p>",
+    "category": "Business",
+    "tags": ["USA", "China"],
+    "author": {
+      "name": "Geneva",
+      "bio": "getty-images"
+    },
+    "relatedIds": [2, 3]
+  },
+  {
+    "id": 2,
+    "slug": "Economy",
+    "title": "Nigeria just cleared its IMF tab, wiring the last dollar of a $3.4 billion emergency loan and officially logging a zero balance with the Fund.",
+    "excerpt": "President Bola Ahmed Tinubu loan settlement",
+    "coverImage": "/teephas-blog/bat.jpg",
+    "content": "<p>The administration adds that Nigeria now faces only about $30 million a year in SDR charges, a footnote next to the $4.66 billion the Debt Management Office spent on foreign-debt servicing in 2024, and is proof of tight fiscal discipline that should reassure global investors.<br /> <p>While this doesn't mean Nigeria is entirely debt-free, it does close one of its most symbolic obligations.</p>”</p>",
+    "category": "Economy",
+    "tags": ["Nigeria", "Imf", "Debtfree", "Credibility", "Investors", "Finance"],
+    "author": {
+      "name": "codespace",
+      "bio": "for every updates"
+    },
+    "relatedIds": [2, 3, 4]
+  },
+
+  {
+    "id": 3,
+    "slug": "Countries",
+    "title": "Nigeria joins the list of countries that are not owing the IMF",
+    "excerpt": "President Bola Ahmed Tinubu loan settlement",
+    "coverImage": "/teephas-blog/bat1.jpg",
+    "content": "<p>Nigeria joins Switzerland, Singapore, China and New Zealand among the Fund-independent economies, giving Africa's largest market fresh leverage at the global finance table.</p>",
+    "category": "Countries",
+    "tags": ["Nigeria", "Imf", "Debtfree", "Credibility", "Investors", "Finance"],
+    "author": {
+      "name": "codespace",
+      "bio": " blogger on a mission to eat the world."
+    },
+    "relatedIds": [2, 3, 4, 5, 6, 7]
+  },
+
+  {
+    "id": 4,
+    "slug": "Rap",
+    "title": "Andre3000 can't connect to rap",
+    "excerpt": "Losing his talent",
+    "coverImage": "/teephas-blog/andre3000.jpg",
+    "content": "<p>says he doesn't feel the same connection to rap that he used to !! He told Rick Rubin that he wish he was more of a Rapper right now... “I don't have a connection with it like I used to. But I would like to. I keep trying.”</p>",
+   "category": "Music",
+    "tags": ["#Andre300", "Music", "Rap"],
+    "author": {
+      "name": "@theshaderoom",
+      "bio": "Find us on instagram for more updates"
+    },
+    "relatedIds": [2, 3, 4, 5]
+  },
+
+  {
+    "id": 5,
+    "slug": "Federal",
+    "title": "Chris Brown has been arrested just hours after he flew into Manchester, England.",
+    "excerpt": "Fighting in the club and throwing bottle at someone.",
+    "coverImage": "/teephas-blog/chris-brown.jpg",
+    "content": "<p>According to TMZ, the arrest stems from a violent incident that reportedly took place at Tape nightclub in the Mayfair section of London on February 19, 2023. He allegedly clashed with music producer Abe Diaw and is accused of attacking him with a bottle.</p> <br /> <p>At the time, Diaw told The Sun that Chris smashed him over the head with a bottle and then punched and kicked him.</p> <p>The Metropolitan Police says Brown was detained at a five-star hotel on suspicion of causing grievous bodily harm.</p>",
+    "category": "",
+    "tags": ["Club"],
+    "author": {
+      "name": "codespace",
+      "bio": " blogger on a mission to eat the world."
+    },
+    "relatedIds": [2, 3, 4, 5, 6, 7]
+  },
+
+  {
+    "id": 6,
+    "slug": "Domestic abuse",
+    "title": "Day 1 Of Diddy's Trial Concludes After Two Witnesses Take The Stand To Testify-Here's",
+    "excerpt": "",
+    "coverImage": "/teephas-blog/diddy.jpg",
+    "content": "<p></p>",
+    "category": "",
+    "tags": [],
+    "author": {
+      "name": "codespace",
+      "bio": " blogger on a mission to eat the world."
+    },
+    "relatedIds": [2, 3, 4, 5, 6, 7, 8]
+  },
+  {
+    "id": 7,
+    "slug": "",
+    "title": "",
+    "excerpt": "",
+    "coverImage": "",
+    "content": "<p></p>",
+    "category": "",
+    "tags": [],
+    "author": {
+      "name": "codespace",
+      "bio": " blogger on a mission to eat the world."
+    },
+    "relatedIds": [2, 3, 4, 5, 6, 7, 8, 9]
+  },
+  {
+    "id": 8,
+    "slug": "",
+    "title": "",
+    "excerpt": "",
+    "coverImage": "",
+    "content": "<p></p>",
+    "category": "",
+    "tags": [],
+    "author": {
+      "name": "codespace",
+      "bio": " blogger on a mission to eat the world."
+    },
+    "relatedIds": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+  },
+  {
+    "id": 9,
+    "slug": "",
+    "title": "",
+    "excerpt": "",
+    "coverImage": "",
+    "content": "<p></p>",
+    "category": "",
+    "tags": [],
+    "author": {
+      "name": "codespace",
+      "bio": " blogger on a mission to eat the world."
+    },
+    "relatedIds": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+  },
+  {
+    "id": 10,
+    "slug": "",
+    "title": "",
+    "excerpt": "",
+    "coverImage": "",
+    "content": "<p></p>",
+    "category": "",
+    "tags": [],
+    "author": {
+      "name": "codespace",
+      "bio": " blogger on a mission to eat the world."
+    },
+    "relatedIds": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+  },
+  {
+    "id": 11,
+    "slug": "",
+    "title": "",
+    "excerpt": "",
+    "coverImage": "",
+    "content": "<p></p>",
+    "category": "",
+    "tags": [],
+    "author": {
+      "name": "codespace",
+      "bio": " blogger on a mission to eat the world."
+    },
+    "relatedIds": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+  },
+  {
+    "id": 12,
+    "slug": "",
+    "title": "",
+    "excerpt": "",
+    "coverImage": "",
+    "content": "<p></p>",
+    "category": "",
+    "tags": [],
+    "author": {
+      "name": "codespace",
+      "bio": " blogger on a mission to eat the world."
+    },
+    "relatedIds": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
+  },
+  {
+    "id": 13,
+    "slug": "",
+    "title": "",
+    "excerpt": "",
+    "coverImage": "",
+    "content": "<p></p>",
+    "category": "",
+    "tags": [],
+    "author": {
+      "name": "codespace",
+      "bio": " blogger on a mission to eat the world."
+    },
+    "relatedIds": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+  },
+  {
+    "id": 14,
+    "slug": "",
+    "title": "",
+    "excerpt": "",
+    "coverImage": "",
+    "content": "<p></p>",
+    "category": "",
+    "tags": [],
+    "author": {
+      "name": "codespace",
+      "bio": " blogger on a mission to eat the world."
+    },
+    "relatedIds": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+  },
+  {
+    "id": 15,
+    "slug": "",
+    "title": "",
+    "excerpt": "",
+    "coverImage": "",
+    "content": "<p></p>",
+    "category": "",
+    "tags": [],
+    "author": {
+      "name": "codespace",
+      "bio": " blogger on a mission to eat the world."
+    },
+    "relatedIds": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+  },
+  {
+    "id": 16,
+    "slug": "",
+    "title": "",
+    "excerpt": "",
+    "coverImage": "",
+    "content": "<p></p>",
+    "category": "",
+    "tags": [],
+    "author": {
+      "name": "codespace",
+      "bio": " blogger on a mission to eat the world."
+    },
+    "relatedIds": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
+  },
+  {
+    "id": 17,
+    "slug": "",
+    "title": "",
+    "excerpt": "",
+    "coverImage": "",
+    "content": "<p></p>",
+    "category": "",
+    "tags": [],
+    "author": {
+      "name": "codespace",
+      "bio": " blogger on a mission to eat the world."
+    },
+    "relatedIds": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+  },
+  {
+    "id": 18,
+    "slug": "",
+    "title": "",
+    "excerpt": "",
+    "coverImage": "",
+    "content": "<p></p>",
+    "category": "",
+    "tags": [],
+    "author": {
+      "name": "codespace",
+      "bio": " blogger on a mission to eat the world."
+    },
+    "relatedIds": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+  },
+  {
+    "id": 19,
+    "slug": "",
+    "title": "",
+    "excerpt": "",
+    "coverImage": "",
+    "content": "<p></p>",
+    "category": "",
+    "tags": [],
+    "author": {
+      "name": "codespace",
+      "bio": " blogger on a mission to eat the world."
+    },
+    "relatedIds": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]
+  },
+  {
+    "id": 20,
+    "slug": "",
+    "title": "",
+    "excerpt": "",
+    "coverImage": "",
+    "content": "<p></p>",
+    "category": "",
+    "tags": [],
+    "author": {
+      "name": "codespace",
+      "bio": " blogger on a mission to eat the world."
+    },
+    "relatedIds": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]
+  },
+  {
+    "id": 21,
+    "slug": "",
+    "title": "",
+    "excerpt": "",
+    "coverImage": "",
+    "content": "<p></p>",
+    "category": "",
+    "tags": [],
+    "author": {
+      "name": "codespace",
+      "bio": " blogger on a mission to eat the world."
+    },
+    "relatedIds": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]
+  },
+  {
+    "id": 22,
+    "slug": "",
+    "title": "",
+    "excerpt": "",
+    "coverImage": "",
+    "content": "<p></p>",
+    "category": "",
+    "tags": [],
+    "author": {
+      "name": "codespace",
+      "bio": " blogger on a mission to eat the world."
+    },
+    "relatedIds": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]
+  },
+  {
+    "id": 23,
+    "slug": "",
+    "title": "",
+    "excerpt": "",
+    "coverImage": "",
+    "content": "<p></p>",
+    "category": "",
+    "tags": [],
+    "author": {
+      "name": "codespace",
+      "bio": " blogger on a mission to eat the world."
+    },
+    "relatedIds": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]
+  },
+  {
+    "id": 24,
+    "slug": "",
+    "title": "",
+    "excerpt": "",
+    "coverImage": "",
+    "content": "<p></p>",
+    "category": "",
+    "tags": [],
+    "author": {
+      "name": "codespace",
+      "bio": " blogger on a mission to eat the world."
+    },
+    "relatedIds": [1]
+  }
+
+]
