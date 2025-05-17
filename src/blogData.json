@@ -27,7 +27,7 @@
       "name": "codespace",
       "bio": "for every updates"
     },
-    "relatedIds": [2, 3, 4]
+    "relatedIds": [3, 4]
   },
 
   {
@@ -43,7 +43,7 @@
       "name": "codespace",
       "bio": " blogger on a mission to eat the world."
     },
-    "relatedIds": [2, 3, 4, 5, 6, 7]
+    "relatedIds": [2, 4, 5, 6, 7]
   },
 
   {
@@ -59,7 +59,7 @@
       "name": "@theshaderoom",
       "bio": "Find us on instagram for more updates"
     },
-    "relatedIds": [2, 3, 4, 5]
+    "relatedIds": [2, 3, 5, 6, 7]
   },
 
   {
@@ -69,59 +69,59 @@
     "excerpt": "Fighting in the club and throwing bottle at someone.",
     "coverImage": "/teephas-blog/chris-brown.jpg",
     "content": "<p>According to TMZ, the arrest stems from a violent incident that reportedly took place at Tape nightclub in the Mayfair section of London on February 19, 2023. He allegedly clashed with music producer Abe Diaw and is accused of attacking him with a bottle.</p> <br /> <p>At the time, Diaw told The Sun that Chris smashed him over the head with a bottle and then punched and kicked him.</p> <p>The Metropolitan Police says Brown was detained at a five-star hotel on suspicion of causing grievous bodily harm.</p>",
-    "category": "",
+    "category": "Law",
     "tags": ["Club"],
     "author": {
       "name": "codespace",
       "bio": " blogger on a mission to eat the world."
     },
-    "relatedIds": [2, 3, 4, 5, 6, 7]
+    "relatedIds": [2, 3, 4, 6, 7]
   },
 
   {
     "id": 6,
     "slug": "Domestic abuse",
-    "title": "Day 1 Of Diddy's Trial Concludes After Two Witnesses Take The Stand To Testify-Here's",
-    "excerpt": "",
+    "title": "Day 1 Of Diddy's Trial Concludes After Two Witnesses Take The Stand To Testify",
+    "excerpt": "Diddy's Trial Concludes",
     "coverImage": "/teephas-blog/diddy.jpg",
-    "content": "<p></p>",
-    "category": "",
-    "tags": [],
+    "content": "<p>Diddy's trial resumes after an hour lunch, with a police officer set to take the stand as the first witness. LAPD Officer Israel Flores worked at the hotel where Diddy was seen physically assaulting Cassie in 2016. CNN obtained and released this video in 2024. Flores takes the stand. He describes the incident between Cassie and Diddy on March 5, 2016. Says he responded to a call about a 'woman in distress' on the 6th floor. Cassie and Diddy were arguing and Flores told them they had to go back to their room.</p> <p>Flores says Diddy handed him a stack of money, and told him not to tell anyone what he saw. 'Cassie said she wanted her phone and her bag. Ms. Cassie said she wanted to leave. Mr. Combs said, 'you're not leaving.' I saw inside the room, a male black wearing dark clothing. '[Combs]' called for me, he was holding a stack of money, not to tell anyone'.</p> <br /> <p>Flores says he denied the bribe saying, 'I don't want your money. Just go back into your room.' He claims he pinned Diddy to the wall after the mogul accused him of recording him.</p> <br /> <p>Prosecutors show video surveillance footage of 2016 assault by Diddy on Cassie at LA Hotel. Witness Flores identifies both parties. Footage shows Cassie carrying a bag at the hotel's elevators just before Diddy comes around the corner, hits her and throws her to the ground before kicking her and dragging her back toward their hotel room. Witness Flores admits to recording two copies of the assault video with his iPhone, 'to show my wife at home.'</p> <br /> <p>Flores is being cross-examined by Diddy's attorney Brian Steel. Steel asks about missing details in Flores' report, including the fact that Combs allegedly told Cassie she couldn't leave the hotel room. Flores also did not add that he offered to call law enforcement, but Cassie refused.</p> <p>The prosecution's second witness takes the stand--Daniel Phillip. Phillip says he was a male stripper, who was allegedly paid to have sex with Cassie at the Gramercy Park Hotel in New York in 2012. Phillip describes the room at the Gramercy Hotel: [Cassie] was in the hotel room in a red wig, stockings and sunglasses. She gave me a few hundred dollars.' [There were] red couches, Astroglide, a lubricant. There was a man on the right side of the room. The man had on a white robe and a bandanna over his face, below his eyes, and a baseball cap. From his voice, I recognized him as Sean Combs.</p>. <br /><p>Prosecutors question Phillip about the use of baby oil. Phillip says he visited Cassie and Diddy a 'few times' after their first encounter, and they used baby oil 'every time.' 'Sean Combs said we didn't have enough baby oil on. He'd say, y'all slow down, separate from each other. One time he tried to have us role play, like we had just met at an airport. We weren't good so we skipped that'. Phillip alleges he witnessed Diddy physically assault Cassie, and decided he couldn't be involved with them anymore. He describes two incidents. Once, Diddy allegedly hit Cassie, saying 'B**ch when I tell you come over, you come over.' In the other incident, Phillip alleges he heard Diddy slapping Cassie. 'He walked out in a towel. She ran to me. I asked, Why are you staying with this guy. She said it was ok.'</p>.",
+    "category": "Law",
+    "tags": ["Baby oil", "P. Diddy", "Puff Daddy"],
     "author": {
       "name": "codespace",
       "bio": " blogger on a mission to eat the world."
     },
-    "relatedIds": [2, 3, 4, 5, 6, 7, 8]
+    "relatedIds": [2, 3, 4, 5, 7, 8]
   },
   {
     "id": 7,
-    "slug": "",
-    "title": "",
-    "excerpt": "",
-    "coverImage": "",
-    "content": "<p></p>",
-    "category": "",
-    "tags": [],
+    "slug": "Domestic abuse continual",
+    "title": "Trial Day Two",
+    "excerpt": "Day two of the Sean 'Diddy' Combs sex trafficking trial is set to begin",
+    "coverImage": "/teephas-blog/diddy2.jpg",
+    "content": "<p>The jury isn't expected to show up in that Manhattan courtroom 'til 9:30 a.m. ET, but the lawyers are already clockin' in early now to resolve any last-minute legal issues in advance of testimony from the government's star witness: R&B singer Cassie. Cassie is set to take the stand today and will likely begin testifying by midday.</p>",
+    "category": "Law",
+    "tags": ["Court Trial"],
     "author": {
       "name": "codespace",
       "bio": " blogger on a mission to eat the world."
     },
-    "relatedIds": [2, 3, 4, 5, 6, 7, 8, 9]
+    "relatedIds": [2, 3, 4, 5, 6, 8, 9]
   },
   {
     "id": 8,
-    "slug": "",
-    "title": "",
-    "excerpt": "",
-    "coverImage": "",
-    "content": "<p></p>",
+    "slug": "Robbery",
+    "title": "Kim Kardashian Testifies At Paris Trial For 2016 Robbery",
+    "excerpt": "I Absolutely Did Think I Was Gonna Die",
+    "coverImage": "/teephas-blog/kim-k.jpg",
+    "content": "<p>KimKardashian has testified at the trial for suspects involved in her 2016 Paris robbery, where she was tied up and held at gunpoint in her hotel room. According to the BBC, Kardashian said she thought she was going to die during the ordeal. She recalled wearing only a robe, which came open when one of the men pulled her toward him. 'I was sure that I was going to be raped,' she testified. However, her legs were tied together instead.</p> <br> <p>Kardashian pleaded with the robbers, saying, 'I have babies and I need to get home to my babies'. At one point, she believed one of them told her to 'shut up', per reports. She testified that although the robbers appeared focused on stealing her jewelry, she feared for her life. She described being thrown onto the bed with her hands and feet bound, believing she would be shot. 'At that point I was sure that's when they were going to shoot me,' she said. 'So I said a prayer for my family and my mom and my sister and best friend'. Kardashian also worried that her sister Kourtney returning to the hotel later, would find her dead.</p> <br> <p>Before the robbery, Kardashian said she felt safe in Paris. Now, she employs four to six bodyguards at all times, even at her California home.</p>",
     "category": "",
     "tags": [],
     "author": {
       "name": "codespace",
       "bio": " blogger on a mission to eat the world."
     },
-    "relatedIds": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+    "relatedIds": [2, 3, 4, 5, 6, 7, 9, 10]
   },
   {
     "id": 9,
@@ -136,7 +136,7 @@
       "name": "codespace",
       "bio": " blogger on a mission to eat the world."
     },
-    "relatedIds": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+    "relatedIds": [2, 3, 4, 5, 6, 7, 8, 10, 11]
   },
   {
     "id": 10,
@@ -151,7 +151,7 @@
       "name": "codespace",
       "bio": " blogger on a mission to eat the world."
     },
-    "relatedIds": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    "relatedIds": [2, 3, 4, 5, 6, 7, 8, 9, 11, 12]
   },
   {
     "id": 11,
